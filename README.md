@@ -77,11 +77,19 @@ AI Engineer | Full-Stack Developer | NLP & Intelligent Systems
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankur-15&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur-15&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankur-15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankur-15&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankur-15&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
