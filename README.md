@@ -89,9 +89,8 @@ AI Engineer | Full-Stack Developer | NLP & Intelligent Systems
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ankur-15&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=ankur-15&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
-
 ---
 
 ⭐ *Building intelligent AI systems that solve real-world problems.*
