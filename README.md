@@ -23,7 +23,7 @@ AI Engineer | Full-Stack Developer | NLP & Intelligent Systems
 
 ## 🧠 About Me
 
-- 🎓 Integrated M.Tech in Artificial Intelligence @ VIT Bhopal (CGPA: 8.08)  
+- 🎓 Integrated M.Tech in Artificial Intelligence @ VIT Bhopal (CGPA: 8.11)  
 - 🤖 Building AI-powered real-world systems  
 - 🔍 Focused on NLP, ML Pipelines & Scalable Backend Systems  
 - 🚀 Love combining AI + Web Tech to create intelligent platforms  
