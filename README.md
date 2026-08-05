@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi, I'm Ankur Singh</h1>
 
 <h3 align="center">
-AI Engineer | Full-Stack Developer | NLP & Intelligent Systems
+AI Engineer | Machine Learning | NLP & Intelligent Systems
 </h3>
 
 <p align="center">
